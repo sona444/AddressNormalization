@@ -3,7 +3,7 @@
 - Used python3
 
 # Problem Statement
-    Normalize unstructured raw Indian addresses by segregating personal information and address to a defined json structure. Addresses can contain spelling mistakes which need to be corrected and addresses need to be geocoded.
+Normalize unstructured raw Indian addresses by segregating personal information and address to a defined json structure. Addresses can contain spelling mistakes which need to be corrected and addresses need to be geocoded.
 
 # Our Idea
 - We fetched the pincode from each line of address.
