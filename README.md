@@ -21,7 +21,7 @@ Normalize unstructured raw Indian addresses by segregating personal information 
 # How to run this application
 - Clone this repository to a code editor
 - Either open the file Address-normalization.py and then click on run icon of the code editor
-- Or in the terminal write in the terminal:
+- Or in the terminal write:
     - python Address-normalization.py
 
 # Note
