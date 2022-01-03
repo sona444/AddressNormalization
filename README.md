@@ -16,7 +16,7 @@ Normalize unstructured raw Indian addresses by segregating personal information 
 # Libraries used
 - pgeocode
 - json
-    These can easily be installed using "pip3 install <library-name>"
+These can easily be installed using "pip3 install <library-name>"
 
 # How to run this application
 - Clone this repository to a code editor
